@@ -5,5 +5,5 @@ No system requirments.
 # Installation
 
 ```
-pip install git+https://github.com/48-4b/
+pip install git+https://github.com/48-4b/Six-State-Logic.git
 ```
